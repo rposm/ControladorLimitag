@@ -636,7 +636,7 @@ Partial Class FormLimitronic
         '
         'txtComando
         '
-        Me.txtComando.Location = New System.Drawing.Point(478, 451)
+        Me.txtComando.Location = New System.Drawing.Point(491, 450)
         Me.txtComando.Name = "txtComando"
         Me.txtComando.Size = New System.Drawing.Size(412, 22)
         Me.txtComando.TabIndex = 29
